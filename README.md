@@ -10,6 +10,7 @@ It should look something like this:
 <pre>
 YourDrive (E:)/  
 ├─ README.md (which you can delete)  
+├─ .gitignore (which you can delete)  
 ├─ PortableMinecraft/  
 │  ├─ _MyFiles/  
 │  │  └─ README.txt (pls read ;-;)  
