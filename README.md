@@ -17,7 +17,7 @@ YourDrive (E:)/
 │  │  └─ README.txt (pls read this too ;-;)  
 │  ├─ Launcher/ (careful - you don't want to launch minecraft from here..)  
 │  │  └─ Minecraft.exe  
-│  ├─ PortableMinecraftLauncherGUI.py (hidden - but you can modify it if you know what you're doing ;) )  
+│  ├─ PortableMinecraftLauncherGUI.py (you can modify it if you know what you're doing ;) )  
 └─ └─ PortableMinecraftLauncherGUI.exe 
 </pre>
 ### 3. Put a minecraft profile/instance in the Instances folder  
