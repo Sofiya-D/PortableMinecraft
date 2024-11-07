@@ -1,0 +1,15 @@
+*.spec
+
+Build/
+Dist/
+*/Build/
+*/Dist/
+
+/PortableMinecraft/_MyFiles/*
+/PortableMinecraft/Instances/*
+!PortableMinecraft/*/README.txt
+
+/PortableMinecraft/Launcher/*
+!/PortableMinecraft/Launcher/Minecraft.exe
+
+/PortableMinecraft/ProfileBatchFiles/*
