@@ -22,7 +22,7 @@ YourDrive (E:)/
 </pre>
 ### 3. Put a minecraft profile/instance in the Instances folder  
 This is what is described in the README.txt file in the Instances folder.  
-For example, you can create a 'MyMinecraft' folder, and copy/paste the content of your 'AppData/.minecraft' folder in it.  
+For example, you can create a folder named 'MyMinecraft', and copy/paste the content of your 'AppData/.minecraft' folder in it.  
 ### 4. Launch Minecraft using the GUI  
 By executing 'PortableMinecraftLauncherGUI.exe', you should be able to open a GUI that allows you to select which profile you wish to launch. Select the profile and click 'launch selected profile' to launch it.  
 ### 5. Et voilà !  
