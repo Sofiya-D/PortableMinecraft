@@ -15,7 +15,7 @@ YourDrive (E:)/
 │  │  └─ README.txt (pls read ;-;)  
 │  ├─ Instances/  
 │  │  └─ README.txt (pls read this too ;-;)  
-│  ├─ Launcher/ (hidden - because you don't want to launch minecraft from here..)  
+│  ├─ Launcher/ (careful - you don't want to launch minecraft from here..)  
 │  │  └─ Minecraft.exe  
 │  ├─ PortableMinecraftLauncherGUI.py (hidden - but you can modify it if you know what you're doing ;) )  
 └─ └─ PortableMinecraftLauncherGUI.exe 
