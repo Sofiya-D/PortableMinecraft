@@ -2,6 +2,8 @@
 An easy way to make your minecraft portable by putting your files on a usb flashdrive.
 ## How to use:
 ### 1. Download this project
+If you're new to GitHub here's how to do it:
+click on the big green ```<> Code``` button above, and then click on ```Download ZIP```. 
 ### 2. Put the content of the project at the root of your Minecraft usb
 It should look something like this
 <pre>
